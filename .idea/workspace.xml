@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3355314d-2be9-452b-bd2c-1e08c34a5bea" name="Default Changelist" comment="" />
+    <list default="true" id="3355314d-2be9-452b-bd2c-1e08c34a5bea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthsInterviewWeek2/FlippingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthsInterviewWeek2/GradingStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthsInterviewWeek2/LonelyInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="290FkR8CD9NcAkqFUc4YPQLPxFj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,16 +35,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MockTestFindTheMedian">
-    <configuration name="BreakingTheRecords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeMonthsInterviewWeek1.BreakingTheRecords" />
+  <component name="RunManager" selected="Application.FlippingBits">
+    <configuration name="FlippingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthsInterviewWeek2.FlippingBits" />
       <module name="HackerRank_InterViewPreparationKit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threeMonthsInterviewWeek1.*" />
+          <option name="PATTERN" value="threeMonthsInterviewWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CamelCase4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeMonthsInterviewWeek1.CamelCase4" />
+    <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthsInterviewWeek2.GradingStudents" />
       <module name="HackerRank_InterViewPreparationKit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threeMonthsInterviewWeek1.*" />
+          <option name="PATTERN" value="threeMonthsInterviewWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisibleSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeMonthsInterviewWeek1.DivisibleSumPairs" />
+    <configuration name="LonelyInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthsInterviewWeek2.LonelyInteger" />
       <module name="HackerRank_InterViewPreparationKit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threeMonthsInterviewWeek1.*" />
+          <option name="PATTERN" value="threeMonthsInterviewWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlippingBits" />
+        <item itemvalue="Application.GradingStudents" />
+        <item itemvalue="Application.LonelyInteger" />
         <item itemvalue="Application.MockTestFindTheMedian" />
         <item itemvalue="Application.MatchingStrings" />
-        <item itemvalue="Application.DivisibleSumPairs" />
-        <item itemvalue="Application.CamelCase4" />
-        <item itemvalue="Application.BreakingTheRecords" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +127,10 @@
       <updated>1652242239572</updated>
       <workItem from="1652242243088" duration="3490000" />
       <workItem from="1652255129923" duration="6872000" />
-      <workItem from="1652296453080" duration="254000" />
+      <workItem from="1652296453080" duration="1032000" />
+      <workItem from="1652326521582" duration="676000" />
+      <workItem from="1652333889284" duration="62000" />
+      <workItem from="1652464748104" duration="3384000" />
     </task>
     <servers />
   </component>
@@ -121,26 +138,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="451" height="600" key="GridCell.Tab.0.bottom" timestamp="1652296784665">
+    <state width="511" height="600" key="GridCell.Tab.0.bottom" timestamp="1652468219749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="451" height="600" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1652296784665" />
-    <state width="451" height="600" key="GridCell.Tab.0.center" timestamp="1652296784665">
+    <state width="511" height="600" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1652468219749" />
+    <state width="511" height="600" key="GridCell.Tab.0.center" timestamp="1652468219749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="451" height="600" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1652296784665" />
-    <state width="451" height="600" key="GridCell.Tab.0.left" timestamp="1652296784665">
+    <state width="511" height="600" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1652468219749" />
+    <state width="511" height="600" key="GridCell.Tab.0.left" timestamp="1652468219749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="451" height="600" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1652296784665" />
-    <state width="451" height="600" key="GridCell.Tab.0.right" timestamp="1652296784665">
+    <state width="511" height="600" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1652468219749" />
+    <state width="511" height="600" key="GridCell.Tab.0.right" timestamp="1652468219749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="451" height="600" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1652296784665" />
+    <state width="511" height="600" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1652468219749" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1652242252907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1652242252907" />
+    <state x="65" y="0" key="new project wizard" timestamp="1652333940212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1652333940212" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1652257451376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
